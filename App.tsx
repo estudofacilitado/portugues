@@ -275,7 +275,7 @@ const App: React.FC = () => {
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-black leading-[1.1] mb-6 tracking-tight max-w-5xl relative">
-            Domine o Português <span className="text-[#3b82f6]">para concursos públicos </span> em até 7 dias
+            Domine Português <span className="text-[#3b82f6]">para Concursos </span> em até 7 dias
           </h1>
 
           <p className="text-[#94a3b8] mb-1 text-lg md:text-xl max-w-2xl mx-auto font-medium leading-[1.5]">
